@@ -6,6 +6,8 @@ import 'package:kangy/src/Constants/image_const.dart';
 import 'package:kangy/src/Constants/page_const.dart';
 import 'dart:math';
 
+
+//Widget of SplashScreen
 class SplashScreen extends StatefulWidget {
   @override
   _SplashScreenState createState() => _SplashScreenState();

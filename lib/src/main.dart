@@ -6,7 +6,7 @@ import 'package:kangy/src/screens/splash.dart';
 
 
 
-
+//Initial Function
 void main() {
   //SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
   runApp(
@@ -14,6 +14,7 @@ void main() {
   );
 }
 
+//MyApp's Widget
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {

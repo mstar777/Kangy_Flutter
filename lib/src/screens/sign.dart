@@ -3,6 +3,7 @@ import 'dart:async';
 
 import 'package:kangy/src/Constants/HexColor.dart';
 
+//Widget of SignScreen
 class SignScreen extends StatefulWidget {
   @override
   _SignScreenState createState() => _SignScreenState();
