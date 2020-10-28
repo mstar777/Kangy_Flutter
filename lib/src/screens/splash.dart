@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:kangy/src/screens/sign.dart';
+import 'package:kangy_flutter/src/screens/sign.dart';
 import 'dart:async';
 
-import 'package:kangy/src/Constants/image_const.dart';
-import 'package:kangy/src/Constants/page_const.dart';
+import 'package:kangy_flutter/src/Constants/image_const.dart';
+import 'package:kangy_flutter/src/Constants/page_const.dart';
 import 'dart:math';
 
 

@@ -1,6 +1,6 @@
-# kangy
+# kangy_flutter
 
-A Flutter application.
+Kangy Flutter Application.
 
 ## Getting Started
 

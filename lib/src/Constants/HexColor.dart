@@ -10,3 +10,5 @@ class HexColor extends Color {
 
   HexColor(final String hexColor) : super(_getColorFromHex(hexColor));
 }
+
+//Using ==> HexColor('#C88A3D')

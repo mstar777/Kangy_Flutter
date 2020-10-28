@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'file:///D:/__Working/___Projects/12_Kangy/Flutter%20Kangy/kangy/lib/src/main.dart';
+import 'package:kangy_flutter/main.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
@@ -28,3 +28,6 @@ void main() {
     expect(find.text('1'), findsOneWidget);
   });
 }
+
+
+
